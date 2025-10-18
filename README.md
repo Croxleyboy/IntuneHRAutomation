@@ -40,11 +40,11 @@ Our goal is to **simplify HR workflows**, improve compliance, and enhance the em
 This repository currently includes **two core automation flows**:
 
 ### 1. Employee Onboarding
-- Automates account provisioning, License assignment, updates via emails and creates tasks with planner.
+- Automates account provisioning, License assignment, Notifications using Email, Planner and Teams.
 - Create new starters with a SharePoint Form and watch the automation take effect.
 
 ### 2. Employee Offboarding
-- Handles access removal, Group removal, License removal with notifiations via automated emails.
+- Handles Access removal, Group removal, License removal with notifiations via automated emails.
 - Ensures a smooth and secure Offboarding and stores Employee documents.
 
 ---
@@ -54,6 +54,13 @@ This repository currently includes **two core automation flows**:
 - [`/Onboarding and Offboarding`](./OnboardingOffboarding) – Contains all resources and flows related to employee onboarding and Offboarding.
 
 ---
+## 🤝 Future Functionality
+
+**Multiple new features Incoming**.
+- Admin Uplift 
+- Application Assignment
+- Asset Management
+- Reports and Personna Mapping
 
 ## 🤝 Community Contribution
 
