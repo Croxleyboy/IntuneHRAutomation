@@ -40,12 +40,12 @@ Our goal is to **simplify HR workflows**, improve compliance, and enhance the em
 This repository currently includes **two core automation flows**:
 
 ### 1. Employee Onboarding
-- Automates account provisioning, Teams setup, and task assignments.
-- Sends welcome messages and collects required information via Forms.
+- Automates account provisioning, License assignment, updates via emails and creates tasks with planner.
+- Create new starters with a SharePoint Form and watch the automation take effect.
 
 ### 2. Employee Offboarding
-- Handles access removal, device retirement, and compliance notifications.
-- Ensures a smooth and secure exit process.
+- Handles access removal, Group removal, License removal with notifiations via automated emails.
+- Ensures a smooth and secure Offboarding and stores Employee documents.
 
 ---
 
