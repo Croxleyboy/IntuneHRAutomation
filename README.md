@@ -1,4 +1,4 @@
-![HR Automation Banner](AutomationImage.png)
+![HR Automation Banner](HRAutomation.png)
 
 # 🚀 HR Automation for Microsoft Ecosystem
 
