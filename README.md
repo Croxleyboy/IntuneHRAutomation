@@ -14,6 +14,7 @@ This repository is designed to help IT and HR teams streamline **employee lifecy
 - [🎯 Purpose](#-purpose)
 - [✅ Features Included](#-features-included)
 - [📁 Folder Structure](#-folder-structure)
+- [📁 Future Functionality](#-future-functionality)
 - [🤝 Community Contribution](#-community-contribution)
 - [📌 How to Get Started](#-how-to-get-started)
 - [🏷️ Tags](#-tags)
