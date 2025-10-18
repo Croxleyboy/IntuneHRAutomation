@@ -51,7 +51,7 @@ This repository currently includes **two core automation flows**:
 
 ## 📁 Folder Structure
 
-- [`/onboarding`](./OnboardingOffboarding) – Contains all resources and flows related to employee onboarding and Offboarding.
+- [`/Onboarding and Offboarding`](./OnboardingOffboarding) – Contains all resources and flows related to employee onboarding and Offboarding.
 
 ---
 
