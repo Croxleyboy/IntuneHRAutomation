@@ -6,7 +6,7 @@
 ![GitHub Stars](https://img.shields.io/github/stars/your-org/hr-automation?style=social)
 
 Welcome to the **HR Automation Community Resource**!  
-This repository is designed to help IT and HR teams streamline **employee lifecycle processes** using the Microsoft 365 ecosystem.
+This Community repository contains Microsoft-focused resources to help IT and HR automate common HR solutions. From the more complex Onboarding with Microsoft Intune for identity and workflow to end user experiences through Expenses and Leave. It's purpose is to help both IT and HR teams streamline employee lifecycle processes using the Microsoft 365 ecosystem.
 
 ---
 
