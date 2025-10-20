@@ -1,6 +1,6 @@
 ![HR Automation Banner](HRAutomation.png)
 
-# 🚀 HR Automation for Microsoft Ecosystem
+# 🚀 HR Automation for Microsoft Ecosystems
 
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
 ![GitHub Stars](https://img.shields.io/github/stars/your-org/hr-automation?style=social)
@@ -23,7 +23,7 @@ This repository contains Microsoft-focused resources to help IT and HR automate 
 
 ## 🎯 **Purpose**
 
-HR processes like onboarding and offboarding can be time-consuming and error-prone. This project provides **ready-to-use automation templates** built with:
+HR processes like onboarding and offboarding can be time-consuming and error-prone. This project provides **ready-to-use automation templates** built using:
 
 - **Microsoft Forms**  
 - **SharePoint**  
@@ -31,6 +31,7 @@ HR processes like onboarding and offboarding can be time-consuming and error-pro
 - **Planner**  
 - **Microsoft Entra**  
 - **Microsoft Teams**  
+- **Power Apps**
 
 Our goal is to **simplify HR workflows**, improve compliance, and enhance the employee experience — all while leveraging tools you already have in Microsoft 365.
 
