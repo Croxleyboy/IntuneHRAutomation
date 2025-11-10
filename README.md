@@ -49,6 +49,9 @@ This repository currently includes **two core automation flows**:
 - Handles Access removal, Group removal, License removal with notifiations via automated emails.
 - Ensures a smooth and secure Offboarding and stores Employee documents.
 
+### 3. Windows Device Renaming
+- Easily rename a windows device using a Power Automate flow without access to the Intune Portal.
+- Brings some quick windows tasks to SMB managers without involving IT Admins
 ---
 
 ## 📁 Folder Structure
