@@ -39,7 +39,7 @@ Our goal is to **simplify HR workflows**, improve compliance, and enhance the em
 
 ## ✅ **Features Included**
 
-This repository currently includes **two core automation flows**:
+This repository currently includes **Three core automation flows**:
 
 ### 1. Employee Onboarding
 - Automates account provisioning, License assignment, Notifications using Email, Planner and Teams.
