@@ -1,0 +1,28 @@
+Instructions to setup Windows Device Renaming
+
+1. Open make.powerautomate.com as an administrator with Intune Admin rights
+
+2. Create a new Application registration in Azure 
+Pick either delegated or application permissions, not both.
+For a back‑office automation, application permissions are usually cleaner.
+The runner of the flow does not need to be a Global Admin — they just need appropriate Intune admin rights.
+
+Assigned the following API permisison
+DeviceManagementManagedDevices.ReadWrite.All
+
+3. Download and upload the excel document included into a SharePoint document folder like Documanets/DeviceRename folder 
+
+4. Download the Power automate flow from GitHub
+5. Import the Power automate solution into your environment.
+6  Change the settings in the flow to use your own azure app registration details. (Change the flow to store an retrieve your TenantID, ClientID and Secret securely using something like KeyVault)  
+
+The App registration MUST exist otherwise the flow will not save or run,
+
+7. Re-connect the ‘List rows present in a table ‘ action within the flow to point to the excel doc you imported
+
+8. Save the flow
+
+✅ Summary
+Pick either delegated or application permissions, not both.
+For a back‑office automation, application permissions are usually cleaner.
+The runner of the flow does not need to be a Global Admin — they just need appropriate Intune admin rights.
